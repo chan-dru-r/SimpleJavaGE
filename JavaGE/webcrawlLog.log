@@ -1,0 +1,121 @@
+2017-03-10 16:07:49 INFO  WebCrawler:34 - WebCrawler constructor called.
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p1
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p2
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p2
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p4
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p5
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p1
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p6
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p7
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p4
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p5
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p3
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p4
+2017-03-10 16:07:49 INFO  WebCrawler:82 - File processed and output JSON object has created.
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p1
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p2
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p3
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p4
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p5
+2017-03-10 16:07:49 INFO  WebCrawler:97 - URL : http://foo.bar.com/p1
+2017-03-10 16:07:49 INFO  WebCrawler:82 - File processed and output JSON object has created.
+2017-03-10 16:27:22 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:27:22 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:27:22 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:27:22 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:27:22 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:27:22 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:27:22 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:27:22 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:30:25 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:33:58 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:34:32 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:35:36 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:35:36 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:35:36 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:35:36 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:35:36 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:35:36 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:35:36 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:35:36 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:37:23 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:37:23 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:37:23 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:37:23 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:37:23 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:37:23 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:37:23 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:37:23 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:38:00 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:38:00 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:38:00 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p6
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p7
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:38:00 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:38:00 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:47:59 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:47:59 INFO  WebCrawler:33 - Reading a file for parse : output2.json
+2017-03-10 16:47:59 INFO  WebCrawler:33 - Reading a file for parse : internet2.json
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:47:59 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:47:59 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:47:59 INFO  WebCrawler:33 - Reading a file for parse : output1.json
+2017-03-10 16:47:59 INFO  WebCrawler:33 - Reading a file for parse : internet1.json
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p6
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p7
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:47:59 INFO  WebCrawler:83 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:47:59 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:50:47 INFO  WebCrawler:32 - WebCrawler constructor called.
+2017-03-10 16:50:47 INFO  WebCrawler:33 - Reading a file for parse : internet1.json
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p6
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p7
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:50:47 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:50:47 INFO  WebCrawler:70 -  Output : {"Skipped":["http:\/\/foo.bar.com\/p4","http:\/\/foo.bar.com\/p2","http:\/\/foo.bar.com\/p1","http:\/\/foo.bar.com\/p5"],"Error":["http:\/\/foo.bar.com\/p3","http:\/\/foo.bar.com\/p7"],"Success":["http:\/\/foo.bar.com\/p4","http:\/\/foo.bar.com\/p2","http:\/\/foo.bar.com\/p1","http:\/\/foo.bar.com\/p6","http:\/\/foo.bar.com\/p5"]}
+2017-03-10 16:50:47 INFO  WebCrawler:33 - Reading a file for parse : internet2.json
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p2
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p3
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p4
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p5
+2017-03-10 16:50:47 INFO  WebCrawler:84 - Processing the URL : http://foo.bar.com/p1
+2017-03-10 16:50:47 INFO  WebCrawler:68 - File processed and output JSON object has created.
+2017-03-10 16:50:47 INFO  WebCrawler:70 -  Output : {"Skipped":["http:\/\/foo.bar.com\/p1"],"Error":[],"Success":["http:\/\/foo.bar.com\/p4","http:\/\/foo.bar.com\/p3","http:\/\/foo.bar.com\/p2","http:\/\/foo.bar.com\/p1","http:\/\/foo.bar.com\/p5"]}
